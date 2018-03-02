@@ -6,9 +6,11 @@ After writing your function uncomment the matching function reference at the bot
 
 // 1. Write a function called helloWorld that returns the string 'Hello World!'.
 
-function helloWorld() {
-
+function helloWorld (){
+  console.log(`Hello World`)
 }
+
+helloWorld();
 
 /*
 2. Write a function called lambdaSchool that has a single parameter called num.
